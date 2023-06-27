@@ -1,16 +1,16 @@
 # ComputerVisionLecture
 
-## Gaussian Blurring
+## 2. Gaussian Blurring
 
 
-## Canny Edge Detection
+## 3. Canny Edge Detection
 
 
-## RANSAC and Panorama
+## 4. RANSAC and Panorama
 
 
-## Epipolar Geometry
+## 5. Epipolar Geometry
 
 
-## Neural Networks
+## 6. Neural Networks
 
